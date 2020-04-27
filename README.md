@@ -3,12 +3,12 @@ Summary
 This experiment aims to create a predictive model for
 estimate the demand for bicycle rentals.
 
-Description
+Description:
 This experiment aims to demonstrate the process of building a model
 regression to forecast demand for bicycle rentals. We will use a
 data set to build and train our model.
 
-Data
+Data:
 The “Bike Rental UCI” data set will be used to build and train the
 model in this experiment. This dataset is based on real company data
 Capital Bikeshare, which operates bicycle rentals in Washington DC,
